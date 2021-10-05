@@ -1,0 +1,37 @@
+.home_container{
+    background: #ffffff;
+}
+.home_content{
+    text-align: center;
+    padding: 110px 0;
+}
+.home_content h1{
+    color: #000000;
+    font-size: 70px;
+    font-weight: 700;
+}
+.home_content p{
+    color: #000000;
+    font-size: 24px;
+    text-transform: capitalize;
+    margin: 20px 0;
+}
+.home_ielts_container{
+    padding: 70px 0;
+    background: rgba(230, 92, 74, 0.767);
+}
+.home_ielts_container h1{
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.home_btn{
+    margin-top: 40px;
+}
+.home_bottom_btn{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700 !important;
+    padding: 10px 20px !important;
+}

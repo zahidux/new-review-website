@@ -1,0 +1,18 @@
+.ielts_container{
+    padding: 60px 0;
+}
+.ielts_top{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.ielts_top h1{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.ielts_top span{
+    color: #dc3545;
+}
+.ielts_top p{
+    font-size: 18px;
+    line-height: 1.3;
+}

@@ -1,0 +1,12 @@
+.about_top{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 40px 0;
+}
+.about_body{
+    margin-bottom: 30px;
+}
+.about_cotent{
+    margin-bottom: 50px;
+}
